@@ -6,7 +6,6 @@
 # n1 = float(input("enter num1  : "))
 # n2 = float(input("enter num2  : "))
 # print(n1 + n2)
-# print("{} + {} = {}".format(n1 , n2, n1 + n2))
 n = input("enter your name : ")
 print(n)
 print(type(n))
