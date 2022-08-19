@@ -10,7 +10,8 @@ c = int(input("final score : "))
 
 s = a + b + c 
 print()
-if s >= 0 and s < 50: print("grade : F")
+
+if s >= 0 and s < 50:   print("grade : F")
 elif s >= 50 and s < 55: print("grade : D")
 elif s >= 55 and s < 60: print("grade : D+")
 elif s >= 60 and s < 65: print("grade : C")
